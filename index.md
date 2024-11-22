@@ -50,4 +50,5 @@
  [23 Arthur Hayes：“特朗普经济学”下的量化宽松新模式与比特币的百万美元之路](https://bitbook2000.github.io/blog/bitlong/23)
  
 
- 
+ ## 郝思蒙（投资超级大佬）
+
