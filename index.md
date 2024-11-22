@@ -52,3 +52,14 @@
 
  ## 郝思蒙（投资超级大佬）
 
+[01 颠覆认知投资大佬郝思蒙系列第00篇](https://bitbook2000.github.io/blog/haosimeng/01)
+
+[01 颠覆认知投资大佬郝思蒙系列第00篇](https://bitbook2000.github.io/blog/haosimeng/01)
+
+[01 颠覆认知投资大佬郝思蒙系列第00篇](https://bitbook2000.github.io/blog/haosimeng/01)
+
+[01 颠覆认知投资大佬郝思蒙系列第00篇](https://bitbook2000.github.io/blog/haosimeng/01)
+
+[01 颠覆认知投资大佬郝思蒙系列第00篇](https://bitbook2000.github.io/blog/haosimeng/01)
+
+[01 颠覆认知投资大佬郝思蒙系列第00篇](https://bitbook2000.github.io/blog/haosimeng/01)
