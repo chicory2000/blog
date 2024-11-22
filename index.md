@@ -48,18 +48,73 @@
  [22 王川：为什么你买了腾讯亚马逊特斯拉比特币，还是很难发大财](https://bitbook2000.github.io/blog/bitlong/22)
  
  [23 Arthur Hayes：“特朗普经济学”下的量化宽松新模式与比特币的百万美元之路](https://bitbook2000.github.io/blog/bitlong/23)
+
  
 
- ## 郝思蒙（投资超级大佬）
+## 郝思蒙（投资超级大佬）
 
-[01 颠覆认知投资大佬郝思蒙系列第00篇](https://bitbook2000.github.io/blog/haosimeng/01)
 
-[01 颠覆认知投资大佬郝思蒙系列第00篇](https://bitbook2000.github.io/blog/haosimeng/01)
+[01 颠覆认知投资大佬郝思蒙系列第1篇](https://bitbook2000.github.io/blog/haosimeng/01)
 
-[01 颠覆认知投资大佬郝思蒙系列第00篇](https://bitbook2000.github.io/blog/haosimeng/01)
+[02 颠覆认知投资大佬郝思蒙系列第2篇](https://bitbook2000.github.io/blog/haosimeng/02)
 
-[01 颠覆认知投资大佬郝思蒙系列第00篇](https://bitbook2000.github.io/blog/haosimeng/01)
+[03 颠覆认知投资大佬郝思蒙系列第3篇](https://bitbook2000.github.io/blog/haosimeng/03)
 
-[01 颠覆认知投资大佬郝思蒙系列第00篇](https://bitbook2000.github.io/blog/haosimeng/01)
+[04 颠覆认知投资大佬郝思蒙系列第4篇](https://bitbook2000.github.io/blog/haosimeng/04)
 
-[01 颠覆认知投资大佬郝思蒙系列第00篇](https://bitbook2000.github.io/blog/haosimeng/01)
+[05 颠覆认知投资大佬郝思蒙系列第5篇](https://bitbook2000.github.io/blog/haosimeng/05)
+
+[06 颠覆认知投资大佬郝思蒙系列第6篇](https://bitbook2000.github.io/blog/haosimeng/06)
+
+[07 颠覆认知投资大佬郝思蒙系列第7篇](https://bitbook2000.github.io/blog/haosimeng/07)
+
+[08 颠覆认知投资大佬郝思蒙系列第8篇](https://bitbook2000.github.io/blog/haosimeng/08)
+
+[09 颠覆认知投资大佬郝思蒙系列第9篇](https://bitbook2000.github.io/blog/haosimeng/09)
+
+[10 颠覆认知投资大佬郝思蒙系列第10篇](https://bitbook2000.github.io/blog/haosimeng/10)
+
+[11 颠覆认知投资大佬郝思蒙系列第11篇](https://bitbook2000.github.io/blog/haosimeng/11)
+
+[12 颠覆认知投资大佬郝思蒙系列第12篇](https://bitbook2000.github.io/blog/haosimeng/12)
+
+[13 颠覆认知投资大佬郝思蒙系列第13篇](https://bitbook2000.github.io/blog/haosimeng/13)
+
+[14 颠覆认知投资大佬郝思蒙系列第14篇](https://bitbook2000.github.io/blog/haosimeng/14)
+
+[15 颠覆认知投资大佬郝思蒙系列第15篇](https://bitbook2000.github.io/blog/haosimeng/15)
+
+[16 颠覆认知投资大佬郝思蒙系列第16篇](https://bitbook2000.github.io/blog/haosimeng/16)
+
+[17 颠覆认知投资大佬郝思蒙系列第17篇](https://bitbook2000.github.io/blog/haosimeng/17)
+
+[18 颠覆认知投资大佬郝思蒙系列第18篇](https://bitbook2000.github.io/blog/haosimeng/18)
+
+[19 颠覆认知投资大佬郝思蒙系列第19篇](https://bitbook2000.github.io/blog/haosimeng/19)
+
+[20 颠覆认知投资大佬郝思蒙系列第20篇](https://bitbook2000.github.io/blog/haosimeng/20)
+
+[21 颠覆认知投资大佬郝思蒙系列第21篇](https://bitbook2000.github.io/blog/haosimeng/21)
+
+[22 颠覆认知投资大佬郝思蒙系列第22篇](https://bitbook2000.github.io/blog/haosimeng/22)
+
+[23 颠覆认知投资大佬郝思蒙系列第23篇](https://bitbook2000.github.io/blog/haosimeng/23)
+
+[24 颠覆认知投资大佬郝思蒙系列第24篇](https://bitbook2000.github.io/blog/haosimeng/24)
+
+[25 颠覆认知投资大佬郝思蒙系列第25篇](https://bitbook2000.github.io/blog/haosimeng/25)
+
+[26 颠覆认知投资大佬郝思蒙系列第26篇](https://bitbook2000.github.io/blog/haosimeng/26)
+
+[27 颠覆认知投资大佬郝思蒙系列第27篇](https://bitbook2000.github.io/blog/haosimeng/27)
+
+[28 颠覆认知投资大佬郝思蒙系列第28篇](https://bitbook2000.github.io/blog/haosimeng/28)
+
+[29 颠覆认知投资大佬郝思蒙系列第29篇](https://bitbook2000.github.io/blog/haosimeng/29)
+
+[30 颠覆认知投资大佬郝思蒙系列第30篇](https://bitbook2000.github.io/blog/haosimeng/30)
+
+[31 颠覆认知投资大佬郝思蒙系列第31篇](https://bitbook2000.github.io/blog/haosimeng/31)
+
+[32 颠覆认知投资大佬郝思蒙系列第32篇](https://bitbook2000.github.io/blog/haosimeng/32)
+
