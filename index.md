@@ -118,3 +118,47 @@
 
 [32 颠覆认知投资大佬郝思蒙系列第32篇](https://bitbook2000.github.io/blog/haosimeng/32)
 
+
+
+## ahr999屯比特币
+
+
+[01 序言：​​​​知之非难，行之不易](https://bitbook2000.github.io/blog/ahr999/01)
+
+[02 比特币与理想主义](https://bitbook2000.github.io/blog/ahr999/02)
+
+[03 下车太早只因愿景太小](https://bitbook2000.github.io/blog/ahr999/03)
+
+[04 你离财富自由还有多远？](https://bitbook2000.github.io/blog/ahr999/04)
+
+[05 冲动、孤独、无聊与矛盾](https://bitbook2000.github.io/blog/ahr999/05)
+
+[06 手握私钥的快感](https://bitbook2000.github.io/blog/ahr999/06)
+
+[07 如何管理私钥？](https://bitbook2000.github.io/blog/ahr999/07)
+
+[08 基本价格模型](https://bitbook2000.github.io/blog/ahr999/08)
+
+[09 寻找合适的购买时机](https://bitbook2000.github.io/blog/ahr999/09)
+
+[10 唯有比特币](https://bitbook2000.github.io/blog/ahr999/10)
+
+[11 不要跟着感觉走](https://bitbook2000.github.io/blog/ahr999/11)
+
+[12 币本位思维](https://bitbook2000.github.io/blog/ahr999/12)
+
+[13 心中无币](https://bitbook2000.github.io/blog/ahr999/13)
+
+[14 打造强节点](https://bitbook2000.github.io/blog/ahr999/14)
+
+[15 运行全节点](https://bitbook2000.github.io/blog/ahr999/15)
+
+[16 四年一个轮回，不光有世界杯，还有比特币](https://bitbook2000.github.io/blog/ahr999/16)
+
+[17 上一轮熊市](https://bitbook2000.github.io/blog/ahr999/17)
+
+[18 终章：不忘初心](https://bitbook2000.github.io/blog/ahr999/18)
+
+
+
+
