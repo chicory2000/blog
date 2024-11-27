@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:id="@+id/appwidget_watch_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:background="#00000000"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/appwidget_text_watch"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="0dip"
+        android:focusable="false"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:maxLines="2"
+        android:shadowColor="#26000000"
+        android:shadowDy="3"
+        android:shadowRadius="6"
+        android:textColor="#ffffff"
+        android:textSize="15dip" />
+
+</LinearLayout>

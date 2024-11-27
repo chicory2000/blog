@@ -1,0 +1,5 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:minWidth="50dip"  
+    android:minHeight="50dip"  
+    android:updatePeriodMillis="1000"  
+    android:initialLayout="@layout/appwidget_provider_watch" />
