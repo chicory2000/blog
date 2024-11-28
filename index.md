@@ -1,5 +1,10 @@
 # Bitbook学习基地
 
+## 比特币价值
+[比特币价值](https://chicory2000.github.io/blog/bitweb/my/btc.md)
+
+[投资](https://chicory2000.github.io/blog/bitweb/my/invest.md)
+
 
 ## 学习比特币
 
@@ -159,6 +164,21 @@
 
 [18 终章：不忘初心](https://chicory2000.github.io/blog/bitweb/ahr999/18)
 
+## 硅谷王川
+
+[01 ](https://chicory2000.github.io/blog/bitweb/investguru/01限定自己能力的边界.md)
+
+[02 听得见炮火的地方最精彩](https://chicory2000.github.io/blog/bitweb/investguru/02听得见炮火的地方最精彩.md)
+
+[03 论熊市投资者的自我修养.md](https://chicory2000.github.io/blog/bitweb/investguru/03论熊市投资者的自我修养.md)
+
+[04 论投资高成长垄断型资产的八个误区.md](https://chicory2000.github.io/blog/bitweb/investguru/04论投资高成长垄断型资产的八个误区.md)
+
+[05 反脆弱的随想-机会成本和选择权.md](https://chicory2000.github.io/blog/bitweb/investguru/05反脆弱的随想-机会成本和选择权.md)
+
+[06 我和苹果公司, 一个不得不说的故事.md](https://chicory2000.github.io/blog/bitweb/investguru/06我和苹果公司, 一个不得不说的故事.md)
+
+[07 输入信息狭隘， 近乎精神病.md](https://chicory2000.github.io/blog/bitweb/investguru/07输入信息狭隘， 近乎精神病.md)
 
 
 
