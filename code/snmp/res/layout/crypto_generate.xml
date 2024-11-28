@@ -1,0 +1,85 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFFFF"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".NotiMainActivity" >
+
+    <TextView
+        android:id="@+id/btn_input_words"
+        style="@style/CryptoButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="input private word" />
+
+    <TextView
+        android:id="@+id/gen_words_12"
+        style="@style/CryptoButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:text="gen words 12" />
+
+    <TextView
+        android:id="@+id/gen_words_24"
+        style="@style/CryptoButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:text="gen words 24" />
+
+    <TextView
+        android:id="@+id/copy_raw_words"
+        style="@style/CryptoButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:text="copy raw words" />
+
+    <TextView
+        android:id="@+id/copy_crypto_words"
+        style="@style/CryptoButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:text="copy crypto words" />
+
+    <TextView
+        android:id="@+id/txt_ges_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:text="ges count"
+        android:textColor="@color/txt_color" />
+
+    <TextView
+        android:id="@+id/txt_btc_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:text="txt_btc_address"
+        android:textColor="@color/txt_color" />
+
+    <TextView
+        android:id="@+id/txt_eth_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:text="txt_eth_address"
+        android:textColor="@color/txt_color" />
+
+    <TextView
+        android:id="@+id/txt_master_words"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:singleLine="false"
+        android:text="words"
+        android:textColor="@color/txt_color" />
+
+</LinearLayout>

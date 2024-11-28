@@ -1,0 +1,51 @@
+<resources>
+
+    <style name="AppBaseTheme">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#fffcfcfc</item>
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme"></style>
+
+    <style name="CryptoButtonStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/btn_background</item>
+        <item name="android:textColor">@color/btn_color</item>
+        <item name="android:textSize">15dip</item>
+        <item name="android:minHeight">40dip</item>
+        <item name="android:paddingLeft">13dip</item>
+        <item name="android:paddingRight">13dip</item>
+    </style>
+
+    <style name="MyceliumPinpadButton" parent="android:style/Widget.Button">
+        <item name="android:layout_marginStart">1dp</item>
+        <item name="android:layout_marginEnd">1dp</item>
+        <item name="android:textColor">@color/button_text_color</item>
+        <item name="android:background">@drawable/btn_blue_light_slim</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:layout_margin">2dp</item>
+    </style>
+
+    <style name="MyceliumPinpadButtonFn" parent="MyceliumPinpadButton">
+        <item name="android:background">@drawable/btn_blue_light_slim</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="MyceliumSlimButton" parent="android:style/Widget.Button">
+        <item name="android:layout_marginStart">1dp</item>
+        <item name="android:layout_marginEnd">1dp</item>
+        <item name="android:background">@drawable/btn_blue_light_slim</item>
+        <item name="android:textColor">@color/button_text_color</item>
+    </style>
+
+    <style name="MyceliumSlimButtonFn" parent="MyceliumSlimButton">
+        <item name="android:background">@drawable/btn_blue_light_slim</item>
+    </style>
+
+</resources>

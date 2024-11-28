@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="grey">#888</color>
+    <color name="darkblue">#2f6699</color>
+    <color name="brightblue">#449def</color>
+    <color name="dark_sky_blue">#5aa7e6</color>
+    <color name="dark_sky_blue_transp">#665aa7e6</color>
+    <color name="darkred">#99662f</color>
+    <color name="brightred">#ef9d44</color>
+    <color name="brightgreen">#44ef9d</color>
+    <color name="greenblue">#0FF</color>
+    <color name="darkgrey">#444</color>
+    <color name="darkdarkgrey">#222</color>
+    <color name="lightgrey">#bbb</color>
+    <color name="lightgrey_transparent">#77555555</color>
+    <color name="yellow">#ff0</color>
+    <color name="darkyellow">#880</color>
+    <color name="buttoncolor">#ff1c3d5c</color>
+    <color name="fnbuttoncolor">#ff112639</color>
+    <color name="fnbuttoncolor_border">#ff255179</color>
+    <color name="buttonredcolor">#ffff1c1c</color>
+    <color name="red_error">#EB582C</color>
+    <color name="transparent">#00000000</color>
+    <color name="tab_selected">#46c01b</color>
+    <color name="tab_unselected">#999999</color>
+    <color name="title_background">#fffcfcfc</color>
+    <color name="list_select">#46c01b</color>
+    <color name="txt_color">#FF222222</color>
+    <color name="btn_color">#FF222222</color>
+    <color name="snmp_background">#FFFFFFFF</color>
+    <color name="snmp_green">#FF85BE3B</color>
+    <color name="snmp_green_dark">#FF658E1B</color>
+    <color name="snmp_green_border">#FF91CD49</color>
+    <color name="bitcoin_color_end">#ac63a9</color>
+    <color name="bitcoin_color_start">#4f8cba</color>
+    <color name="bitcoin_cold_server_color_end">#658E1B</color>
+    <color name="bitcoin_cold_server_color_start">#555E1B</color>
+    <color name="bitcoin_cold_client_color_end">#0083a9</color>
+    <color name="bitcoin_cold_client_color_start">#0063a9</color>
+
+</resources>
