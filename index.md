@@ -170,15 +170,15 @@
 
 [02 听得见炮火的地方最精彩](https://chicory2000.github.io/blog/bitweb/investguru/02听得见炮火的地方最精彩)
 
-[03 论熊市投资者的自我修养.md](https://chicory2000.github.io/blog/bitweb/investguru/03论熊市投资者的自我修养)
+[03 论熊市投资者的自我修养](https://chicory2000.github.io/blog/bitweb/investguru/03论熊市投资者的自我修养)
 
-[04 论投资高成长垄断型资产的八个误区.md](https://chicory2000.github.io/blog/bitweb/investguru/04论投资高成长垄断型资产的八个误区)
+[04 论投资高成长垄断型资产的八个误区](https://chicory2000.github.io/blog/bitweb/investguru/04论投资高成长垄断型资产的八个误区)
 
-[05 反脆弱的随想-机会成本和选择权.md](https://chicory2000.github.io/blog/bitweb/investguru/05反脆弱的随想-机会成本和选择权)
+[05 反脆弱的随想-机会成本和选择权](https://chicory2000.github.io/blog/bitweb/investguru/05反脆弱的随想-机会成本和选择权)
 
-[06 我和苹果公司, 一个不得不说的故事.md](https://chicory2000.github.io/blog/bitweb/investguru/06我和苹果公司一个不得不说的故事)
+[06 我和苹果公司, 一个不得不说的故事](https://chicory2000.github.io/blog/bitweb/investguru/06我和苹果公司一个不得不说的故事)
 
-[07 输入信息狭隘， 近乎精神病.md](https://chicory2000.github.io/blog/bitweb/investguru/07输入信息狭隘近乎精神病)
+[07 输入信息狭隘， 近乎精神病](https://chicory2000.github.io/blog/bitweb/investguru/07输入信息狭隘近乎精神病)
 
 
 
