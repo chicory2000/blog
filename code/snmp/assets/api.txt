@@ -1,0 +1,7 @@
+
+https://api.blockchair.com/bitcoin/stats
+https://mempool.space/api/v1/fees/recommended
+https://api.blockcypher.com/v1/btc/main/addrs/1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY
+https://blockchair.com/broadcast/
+https://api.blockchair.com/bitcoin/addresses/balances?addresses=1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY
+https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_vol=true
