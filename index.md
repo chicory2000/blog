@@ -166,7 +166,7 @@
 
 ## 硅谷王川
 
-[01 ](https://chicory2000.github.io/blog/bitweb/investguru/01限定自己能力的边界.md)
+[01 限定自己能力的边界](https://chicory2000.github.io/blog/bitweb/investguru/01限定自己能力的边界.md)
 
 [02 听得见炮火的地方最精彩](https://chicory2000.github.io/blog/bitweb/investguru/02听得见炮火的地方最精彩.md)
 
