@@ -1,9 +1,9 @@
 # Bitbook学习基地
 
 ## 比特币价值
-[比特币价值](https://chicory2000.github.io/blog/bitweb/my/btc.md)
+[比特币价值](https://chicory2000.github.io/blog/bitweb/my/btc)
 
-[投资](https://chicory2000.github.io/blog/bitweb/my/invest.md)
+[投资](https://chicory2000.github.io/blog/bitweb/my/invest)
 
 
 ## 学习比特币
