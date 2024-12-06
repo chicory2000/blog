@@ -123,6 +123,8 @@
 
 [32 颠覆认知投资大佬郝思蒙系列第32篇](https://chicory2000.github.io/blog/bitweb/haosimeng/32)
 
+[33 颠覆认知投资大佬郝思蒙系列第33篇](https://chicory2000.github.io/blog/bitweb/haosimeng/33)
+
 
 
 ## ahr999屯比特币
