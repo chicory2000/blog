@@ -182,7 +182,7 @@
 
 [06 我和苹果公司, 一个不得不说的故事](https://chicory2000.github.io/blog/bitweb/investguru/06-我和苹果公司一个不得不说的故事)
 
-[07 输入信息狭隘， 近乎精神病](https://chicory2000.github.io/blog/bitweb/investguru/07输入信息狭隘近乎精神病)
+[07 输入信息狭隘， 近乎精神病](https://chicory2000.github.io/blog/bitweb/investguru/07-输入信息狭隘近乎精神病)
 
 
 
