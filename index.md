@@ -28,7 +28,7 @@
  
  [10 李笑来：比特币世界生存指南（进阶）](https://chicory2000.github.io/blog/bitweb/bitlong/10-【李笑来】比特币世界生存指南（进阶）)
  
- [11 李笑来：比特币之答疑解惑:为什么有人对此着迷？](https://chicory2000.github.io/blog/bitweb/bitlong/11-比特币之答疑解惑:为什么有人对此着迷)
+ [11 李笑来：比特币之答疑解惑:为什么有人对此着迷？](https://chicory2000.github.io/blog/bitweb/bitlong/11-比特币之答疑解惑-为什么有人对此着迷)
  
  [12 红中玉：我对人生以及比特币的一点看法](https://chicory2000.github.io/blog/bitweb/bitlong/12-我对人生以及比特币的一点看法)
  
