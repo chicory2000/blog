@@ -1,10 +1,3 @@
----
-created: 2024-11-07T14:15:32 (UTC +08:00)
-tags: [区块链媒体,区块链新闻,区块链快讯,区块链专栏,区块链游戏,币圈媒体,区块链投资,区块链赚钱,区块链钱包,比特币,BTC,以太坊,ETH,DeFi,Gamefi,CEX,DEX,交易所,稳定币,DApp,NFT]
-source: https://followin.io/zh-Hans/feed/13134237/n/n/nKeoun
-author: 
----
-
 # Arthur Hayes：美联储降息50基点将引发金融市场“核爆”！
 
 来源：CoinDesk
