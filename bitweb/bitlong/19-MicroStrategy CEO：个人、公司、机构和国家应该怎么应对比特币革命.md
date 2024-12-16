@@ -1,10 +1,3 @@
----
-created: 2024-11-07T14:12:37 (UTC +08:00)
-tags: [MicroStrategy，金色财经，金色，jinse，coinlive，coinmarket，Jinse Finance，区块链，加密货币，Web3，Crypto，Blockchain，比特币，BTC，以太坊，以太，ETH，币安，BNB，Binance，USDT，泰达，狗狗币，Doge，ZK，L2，Rollup]
-source: chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/
-author: 金色财经
----
-
 # MicroStrategy CEO：个人、公司、机构和国家应该怎么应对比特币革命
 
 > ## Excerpt
