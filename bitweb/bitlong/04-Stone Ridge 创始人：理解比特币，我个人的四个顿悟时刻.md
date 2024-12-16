@@ -1,11 +1,4 @@
----
-created: 2024-11-07T11:22:27 (UTC +08:00)
-tags: [Ridge,Stone,黄金,挖矿,个人,可售性,供应量,法币,时间,难度,比特币,能源,挖矿,质数,中本聪]
-source: https://www.sohu.com/a/443280291_100217347
-author: 
----
-
-# Stone Ridge 创始人：理解比特币，我个人的四个顿悟时刻_黄金
+# Stone Ridge 创始人：理解比特币，我个人的四个顿悟时刻
 
 
 **链闻 ChainNews**
