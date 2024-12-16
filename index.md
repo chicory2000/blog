@@ -27,7 +27,9 @@
  [09 李笑来：此物一出天下反](https://chicory2000.github.io/blog/bitweb/bitlong/09-此物一出天下反—李笑来)
  
  [10 李笑来：比特币世界生存指南（进阶）](https://chicory2000.github.io/blog/bitweb/bitlong/10-【李笑来】比特币世界生存指南（进阶）)
- 
+
+ [11 李笑来：比特币之答疑解惑:为什么有人对此着迷？](https://chicory2000.github.io/blog/bitweb/bitlong/11-比特币之答疑解惑：为什么有人对此着迷)
+
  [12 红中玉：我对人生以及比特币的一点看法](https://chicory2000.github.io/blog/bitweb/bitlong/12-我对人生以及比特币的一点看法)
  
  [13 王川：论投资高成长垄断型资产的八个误区](https://chicory2000.github.io/blog/bitweb/bitlong/13-王川：论投资高成长垄断型资产的八个误区)
@@ -168,17 +170,17 @@
 
 ## 硅谷王川  
 
-[01 限定自己能力的边界](https://chicory2000.github.io/blog/bitweb/investguru/01限定自己能力的边界)
+[01 限定自己能力的边界](https://chicory2000.github.io/blog/bitweb/investguru/01-限定自己能力的边界)
 
-[02 听得见炮火的地方最精彩](https://chicory2000.github.io/blog/bitweb/investguru/02听得见炮火的地方最精彩)
+[02 听得见炮火的地方最精彩](https://chicory2000.github.io/blog/bitweb/investguru/02-听得见炮火的地方最精彩)
 
-[03 论熊市投资者的自我修养](https://chicory2000.github.io/blog/bitweb/investguru/03论熊市投资者的自我修养)
+[03 论熊市投资者的自我修养](https://chicory2000.github.io/blog/bitweb/investguru/03-论熊市投资者的自我修养)
 
-[04 论投资高成长垄断型资产的八个误区](https://chicory2000.github.io/blog/bitweb/investguru/04论投资高成长垄断型资产的八个误区)
+[04 论投资高成长垄断型资产的八个误区](https://chicory2000.github.io/blog/bitweb/investguru/04-论投资高成长垄断型资产的八个误区)
 
-[05 反脆弱的随想-机会成本和选择权](https://chicory2000.github.io/blog/bitweb/investguru/05反脆弱的随想-机会成本和选择权)
+[05 反脆弱的随想-机会成本和选择权](https://chicory2000.github.io/blog/bitweb/investguru/05-反脆弱的随想-机会成本和选择权)
 
-[06 我和苹果公司, 一个不得不说的故事](https://chicory2000.github.io/blog/bitweb/investguru/06我和苹果公司一个不得不说的故事)
+[06 我和苹果公司, 一个不得不说的故事](https://chicory2000.github.io/blog/bitweb/investguru/06-我和苹果公司一个不得不说的故事)
 
 [07 输入信息狭隘， 近乎精神病](https://chicory2000.github.io/blog/bitweb/investguru/07输入信息狭隘近乎精神病)
 
