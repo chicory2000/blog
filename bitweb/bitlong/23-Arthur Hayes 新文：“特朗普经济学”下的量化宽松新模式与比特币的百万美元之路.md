@@ -1,10 +1,3 @@
----
-created: 2024-11-13T16:32:01 (UTC +08:00)
-tags: [区块链媒体,区块链新闻,区块链快讯,区块链专栏,区块链游戏,币圈媒体,区块链投资,区块链赚钱,区块链钱包,比特币,BTC,以太坊,ETH,DeFi,Gamefi,CEX,DEX,交易所,稳定币,DApp,NFT]
-source: https://followin.io/zh-Hans/feed/14309165
-author: 
----
-
 # Arthur Hayes 新文：“特朗普经济学”下的量化宽松新模式与比特币的百万美元之路
 
 > ## Excerpt
