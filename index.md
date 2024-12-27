@@ -56,7 +56,7 @@
 
  [24 万卉：当前行情是来自西方机构投资者的明牌长牛](https://chicory2000.github.io/blog/bitweb/bitlong/24-万卉：当前行情是来自西方机构投资者的明牌长牛)
 
- [25-深度对话Pantera创始人-特朗普政府比特币趋势](https://chicory2000.github.io/blog/bitweb/bitlong/25-深度对话Pantera创始人)
+ [25 深度对话Pantera创始人-特朗普政府比特币趋势](https://chicory2000.github.io/blog/bitweb/bitlong/25-深度对话Pantera创始人)
  
 
 ## 郝思蒙（投资超级大佬）
