@@ -1,9 +1,6 @@
 # 深度对话Pantera创始人：从65美元买入BTC至今，加密革命才完成15%_腾讯新闻
 
 
----
-![图片](https://inews.gtimg.com/om_bt/O9BXTVhILhdRQRPJyd2ArDcrkzBJiOUKVOY1hHXVGND5IAA/1000)
-
 原文：Bankless
 
 整理：Yuliya，PANews
