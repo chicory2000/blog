@@ -25,3 +25,16 @@ security check:
 bitlong
 nsec17q75t5ny4smfgphhf6f07l7ssk5rm30ker943s4m8amm6d8hfg5sn7nkhy
 npub1dd0mxchj4mxu9e20s7gs02mmfld98lrkyfu8a9tmx4nzx96u77hq5gcrzq
+
+    // https://mempool.space/zh/
+    // https://mempool.space/api/v1/prices
+    // https://api.coincap.io/v2/rates/chinese-yuan-renminbi
+    // https://api.coincap.io/v2/rates/bitcoin
+
+    // https://github.com/anoxxxy/wally.id/blob/d180f82df451175ff033cad649ac68de4c52b327/js/coinbin.js
+    // https://github.com/Blockstream/esplora/blob/master/API.md
+    // https://btc4.trezor.io/api/v2/address/
+    // https://api.coingrig.com/btc/utxo/
+    // https://blockchain.info/pushtx
+    // https://blockchain.info/unspent?active=
+
