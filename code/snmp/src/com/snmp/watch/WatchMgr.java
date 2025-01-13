@@ -9,6 +9,7 @@ import com.snmp.api.query.BitapsApi;
 import com.snmp.api.query.BlockChainApi;
 import com.snmp.api.query.BlockChairApi;
 import com.snmp.api.query.BlockCypherApi;
+import com.snmp.api.query.MempoolApi;
 import com.snmp.crypto.CyptoMgr;
 
 public class WatchMgr {
@@ -66,7 +67,8 @@ public class WatchMgr {
         allQueryApiList.add(new BlockCypherApi());
         allQueryApiList.add(new BlockChairApi());
         allQueryApiList.add(new BlockChainApi());
-        allQueryApiList.add(new BitapsApi());
+        allQueryApiList.add(new MempoolApi());
+        //allQueryApiList.add(new BitapsApi());
         //allQueryApiList.add(new BlockStreamApi());
         //allQueryApiList.add(new SamouraiApi());
         return allQueryApiList;
