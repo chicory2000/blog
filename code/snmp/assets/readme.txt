@@ -21,16 +21,25 @@ security check:
     <!-- bcprov-jdk15to18-171.jar -->
     <!-- zxing-android-embedded v4.3.0 -->
     <!-- zip use utf-8 param: cu=on --> for zip
-    
+
+nostr
+https://nostr-backup.pages.dev/
+https://github.com/bordalix/nostr-backup
+https://nostrapps.com/
+https://primal.net/home
+https://coracle.social/notes
+
 bitlong
 nsec17q75t5ny4smfgphhf6f07l7ssk5rm30ker943s4m8amm6d8hfg5sn7nkhy
 npub1dd0mxchj4mxu9e20s7gs02mmfld98lrkyfu8a9tmx4nzx96u77hq5gcrzq
 
+    // https://github.com/mycelium-com/wallet-android
     // https://mempool.space/zh/
     // https://mempool.space/api/v1/fees/recommended
     // https://mempool.space/api/v1/prices
     // https://api.coincap.io/v2/rates/chinese-yuan-renminbi
     // https://api.coincap.io/v2/rates/bitcoin
+    // https://blockchair.com/broadcast/
 
     // https://github.com/anoxxxy/wally.id/blob/d180f82df451175ff033cad649ac68de4c52b327/js/coinbin.js
     // https://github.com/Blockstream/esplora/blob/master/API.md
