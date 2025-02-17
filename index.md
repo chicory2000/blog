@@ -58,6 +58,7 @@
 
  [25 深度对话Pantera创始人-特朗普政府比特币趋势](https://chicory2000.github.io/blog/bitweb/bitlong/25-深度对话Pantera创始人)
  
+ [26 MichaelSaylor：如何打造世界上拥有比特币最多的公司？为什么决定死后销毁个人私钥](https://chicory2000.github.io/blog/bitweb/bitlong/26-MichaelSaylor：如何打造世界上拥有比特币最多的公司？为什么决定死后销毁个人私钥)
 
 ## 郝思蒙（投资超级大佬）
 
