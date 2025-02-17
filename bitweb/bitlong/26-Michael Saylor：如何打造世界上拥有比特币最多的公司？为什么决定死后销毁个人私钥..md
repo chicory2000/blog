@@ -1,9 +1,5 @@
 # 吴说对话微策略创始人 Michael Saylor：如何打造世界上拥有比特币最多的公司？为什么决定死后销毁个人私钥
 
-> ## Excerpt
-> 编译 | 吴说区块链
-
----
 **编译** **|** **吴说区块链**
 
 在这次采访中，吴说 Colin 与 MicroStrategy 的创始人 Michael Saylor 探讨了以下问题：MicroStrategy 会一直收购比特币吗；MicroStrategy 是否存在被清算的风险；如何看待加密货币的周期性与可能到来的熊市；MicroStrategy 未来会借出或质押比特币来赚取利息吗；如何看待亚洲的企业在模仿微策略；微策略会开发自身的比特币二层网络吗；Michael 个人持有多少比特币，为什么宣布要在死后销毁私钥；仍然支持“银行托管比自托管更安全”的观点吗；如何看待特朗普新政与比特币国家储备；比特币是否存在美国中心化的风险；比特币是否太贵了，只有富人和机构购买，如何看待年轻人更喜爱 memecoin；比特币是一种宗教吗；对中国投资者有什么建议。
@@ -194,12 +190,4 @@ Michael Saylor：我认为，比特币正在成为全球新兴的资本网络。
 
 你可以逃避它，或者抱怨它，但如果你想创造一个更美好的世界，如果你想变得富有，如果你想改变 100 亿人的未来，你需要成为一名工程师。你不能只是害怕被电击、被火烧，或者害怕神明的雷霆，你要去掌控它，利用它，推动世界前进。
 
-**![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)**
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
-
-****由于公众号推送逻辑调整，老读者请给吴说公众号加上星标，否则可能无法收到****
-
-****加星标方式：******[**如何给公众号设置星标**](https://mp.weixin.qq.com/s?__biz=MzIzNjM4NDkwNg==&mid=2247492530&idx=2&sn=266d87484e8cedc3a9eb0b329486a065&scene=21#wechat_redirect)**
-
-****根据央行等部门发布“关于进一步防范和处置虚拟货币交易炒作风险的通知”，本文内容仅用于信息分享，不对任何经营与投资行为进行推广与背书，请读者严格遵守所在地区法律法规，不参与任何非法金融行为。不为任何虚拟货币、数字藏品相关的发行、交易与融资等提供交易入口、指引、发行渠道引导等。吴说内容未经许可，禁止进行转载、复制等，违者将追究法律责任。****
