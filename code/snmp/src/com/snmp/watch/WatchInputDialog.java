@@ -4,11 +4,14 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.text.TextUtils;
 import android.widget.EditText;
 
+import com.snmp.crypto.CryptoHomeActivity;
 import com.snmp.crypto.CyptoMgr;
 import com.snmp.utils.PreferenceManager;
+import com.snmp.utils.SnmpApplication;
 import com.snmp.utils.Utils;
 
 public class WatchInputDialog {
@@ -25,6 +28,14 @@ public class WatchInputDialog {
                 String result = editText.getText().toString();
                 if (TextUtils.isEmpty(result)) {
                     Utils.toast("null input");
+                    return;
+                }
+                if ("2000".equals(result)) {
+                    Intent intent = new Intent();
+                    intent.setClassName(SnmpApplication.getInstance().getPackageName(),
+                            CryptoHomeActivity.class.getName());
+                    intent.addFlags(intent.FLAG_ACTIVITY_NEW_TASK);
+                    SnmpApplication.getInstance().startActivity(intent);
                     return;
                 }
 
