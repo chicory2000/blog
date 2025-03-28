@@ -176,7 +176,7 @@ public class WatchActivity extends Activity implements PriceMgr.onCallback, Watc
         }
 
         for (String address : addressList) {
-            if (TextUtils.isEmpty(address)) {
+            if (TextUtils.isEmpty(address) || address.length() < 20) {
                 continue;
             }
 
