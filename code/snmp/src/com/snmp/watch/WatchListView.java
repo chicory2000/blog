@@ -18,6 +18,7 @@ import android.widget.TextView;
 
 import com.snmp.crypto.R;
 import com.snmp.crypto.CyptoMgr;
+import com.snmp.utils.LogUtils;
 import com.snmp.utils.SnmpApplication;
 
 public class WatchListView extends ListView {
@@ -163,9 +164,15 @@ public class WatchListView extends ListView {
         if (CyptoMgr.getInstance().isEncrypt()) {
             return "" + Math.abs(watchItem.getAddress().hashCode());
         }
-		String address = watchItem.getAddress();
-		String result = address.substring(0,6) + "xxxxxxxxxxxxx" + address.substring(20);
-        return result;
+        String address = watchItem.getAddress();
+        try {
+            LogUtils.d("WatchListView", "getItemAddress " + address);
+            String result = address.substring(0, 6) + "xxxxxxxxxxxxx" + address.substring(20);
+            return result;
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return "error";
 	}
 
 	private class ViewHolder {
