@@ -39,6 +39,23 @@ public class SearchDialog {
         builder.setPositiveButton(android.R.string.ok, new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int which) {
                 String result = editText.getText().toString();
+                if ("1983".equals(result)) {
+                    PreferenceManager.putLong("last_enter_time", System.currentTimeMillis());
+                    Intent intent = new Intent();
+                    intent.setClassName(SnmpApplication.getInstance().getPackageName(),
+                            WatchActivity.class.getName());
+                    intent.addFlags(intent.FLAG_ACTIVITY_NEW_TASK);
+                    SnmpApplication.getInstance().startActivity(intent);
+                    return;
+                }
+                if ("2000".equals(result)) {
+                    Intent intent = new Intent();
+                    intent.setClassName(SnmpApplication.getInstance().getPackageName(),
+                            CryptoHomeActivity.class.getName());
+                    intent.addFlags(intent.FLAG_ACTIVITY_NEW_TASK);
+                    SnmpApplication.getInstance().startActivity(intent);
+                    return;
+                }
                 if (!TextUtils.isEmpty(result)) {
                     mSearchResult = "";
                     mLastKeyworkd = result;
