@@ -96,6 +96,20 @@ public class WatchActivity extends Activity implements PriceMgr.onCallback, Watc
             }
         });
         PriceMgr.getInstance().postApi(this);
+        updateVisibility();
+    }
+
+    public void updateVisibility() {
+        View root = findViewById(R.id.crypto_root);
+        if (mEncrypt) {
+            root.findViewById(R.id.req_address).setVisibility(View.GONE);
+            root.findViewById(R.id.txt_api_name).setVisibility(View.GONE);
+            root.findViewById(R.id.txt_price).setVisibility(View.GONE);
+        } else {
+            root.findViewById(R.id.req_address).setVisibility(View.VISIBLE);
+            root.findViewById(R.id.txt_api_name).setVisibility(View.VISIBLE);
+            root.findViewById(R.id.txt_price).setVisibility(View.VISIBLE);
+        }
     }
 
     private void requestList() {
