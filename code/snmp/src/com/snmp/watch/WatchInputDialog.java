@@ -48,6 +48,7 @@ public class WatchInputDialog {
                     Utils.toast("success");
                 } else if ("1983".equals(result)) {
                     ((WatchActivity)activity).mEncrypt = false;
+                    ((WatchActivity)activity).updateVisibility();
                 } else {
                     // search(activity, result);
                     String last = PreferenceManager.getString("address_list", "");
