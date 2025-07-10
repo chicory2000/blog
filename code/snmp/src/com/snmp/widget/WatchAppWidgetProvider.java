@@ -19,7 +19,7 @@ public class WatchAppWidgetProvider extends AppWidgetProvider {
     public static void updateAppWidget(Context context, AppWidgetManager appWidgetManager, int updateAppWidget) {
         RemoteViews remoteViews = new RemoteViews(context.getPackageName(), R.layout.appwidget_provider_watch);
 
-        remoteViews.setTextViewText(R.id.appwidget_text_watch, "0\n0");
+        remoteViews.setTextViewText(R.id.appwidget_text_watch, " \n ");
 
         remoteViews.setOnClickPendingIntent(R.id.appwidget_watch_view,
                 PendingIntent.getActivity(context, 0, new Intent(context, WatchActivity.class), 201326592));
