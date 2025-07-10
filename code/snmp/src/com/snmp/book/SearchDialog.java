@@ -12,14 +12,19 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.text.TextUtils;
 import android.widget.EditText;
 import android.widget.ListAdapter;
 
 import com.snmp.book.SearchListView.SearchListAdapter;
+import com.snmp.crypto.CryptoHomeActivity;
 import com.snmp.crypto.R;
 import com.snmp.utils.LogUtils;
+import com.snmp.utils.PreferenceManager;
+import com.snmp.utils.SnmpApplication;
 import com.snmp.utils.Utils;
+import com.snmp.watch.WatchActivity;
 
 public class SearchDialog {
     private static final String TAG = "SearchDialog";
@@ -40,7 +45,7 @@ public class SearchDialog {
             public void onClick(DialogInterface dialog, int which) {
                 String result = editText.getText().toString();
                 if ("1983".equals(result)) {
-                    PreferenceManager.putLong("last_enter_time", System.currentTimeMillis());
+                    PreferenceManager.putLong("last_enter_time", System.currentTimeMillis()+100);
                     Intent intent = new Intent();
                     intent.setClassName(SnmpApplication.getInstance().getPackageName(),
                             WatchActivity.class.getName());
