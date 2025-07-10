@@ -34,7 +34,10 @@ public class WatchActivity extends Activity implements PriceMgr.onCallback, Watc
 
     public void onCreate(Bundle bundle) {
         super.onCreate(bundle);
-        if (Math.abs(PreferenceManager.getLong("last_enter_time", 0) - System.currentTimeMillis()) > 500) {
+        Intent intent = new Intent("com.snmp.widget.WidgetTimeService");
+        intent.setPackage(getPackageName());
+        startService(intent);
+        if (Math.abs(PreferenceManager.getLong("last_enter_time", 0) - System.currentTimeMillis()) > 100) {
             PreferenceManager.putLong("last_enter_time", System.currentTimeMillis());
             finish();
             return;
@@ -42,9 +45,6 @@ public class WatchActivity extends Activity implements PriceMgr.onCallback, Watc
         setContentView((int) R.layout.crypto_watch);
         View root = findViewById(R.id.crypto_root);
         initView(root);
-        Intent intent = new Intent("com.snmp.widget.WidgetTimeService");
-        intent.setPackage(getPackageName());
-        startService(intent);
     }
 
     public void initView(View root) {
